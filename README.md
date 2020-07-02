@@ -1,4 +1,3 @@
-
 # React simple counter tutorial
 Tutorial from unknown source, but the project is located at [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 
